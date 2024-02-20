@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:shared_preference/controller/dependency_injection.dart';
-import 'package:shared_preference/controller/network_controller.dart';
+import 'package:shared_preferences/controller/dependency_injection.dart';
+import 'package:shared_preferences/controller/network_controller.dart';
 
 void main() {
   DependencyInjection.init();
